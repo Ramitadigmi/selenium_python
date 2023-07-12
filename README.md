@@ -1,2 +1,2 @@
-# selenium_python
-testing with selenium python
+# tak_selenium
+belajar selenium
