@@ -1,2 +1,1 @@
-# tak_selenium
-belajar selenium
+belajar selenium python
